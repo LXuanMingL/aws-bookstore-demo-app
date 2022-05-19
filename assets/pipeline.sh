@@ -30,7 +30,7 @@ else
 fi
 
 echo "<git add .>"
-git add .
+git add ../.
 
 echo "<git commit -m message>"
 git commit -m "$1"
