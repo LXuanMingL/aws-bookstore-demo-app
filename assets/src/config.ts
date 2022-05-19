@@ -1,3 +1,4 @@
+//Simon Liang, 1515834 
 export default {
   apiGateway: {
     REGION: "us-east-1",

@@ -1,3 +1,4 @@
+//Simon Liang, 1515834 
 export const categories = {
   cooks: "Cookbooks",
   database: "Database",
